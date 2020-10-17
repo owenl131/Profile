@@ -1,1 +1,46 @@
-# Profile
+## Owen L (@owenl131)
+
+<br>
+
+### 1. Work Experience
+
+**Intern** at iGlobe Partners *(Nov 2018 - Dec 2018)*
+
+- Took meeting minutes for meetings with startups
+- Prepared SOPs for using software
+- Performed SEO for company website
+
+**Software Engineer Intern** at ViSenze Pte Ltd *(May 2018 - July 2018)*
+
+- Wrote DSL scripts for data scraping from e-commerce websites for training machine learning systems
+- Worked on the refactoring of the inhouse data scraping tool in `Golang` with the data scraping team
+
+<br>
+
+### 2. Projects
+
+**RPG Quest** *2015*, Champion at Singapore Games Creation Competition
+
+- RPG: Recovery from Problem Gambling
+- Written in `Unity/C#`, in a group of 3
+
+<br>
+
+### 3. Education
+
+**NUS High School, Singapore** *(2013 - 2018)*
+
+- Graduated with High Distinction, with Major in Physics and Chemistry and Honours in Mathematics and Computing Studies
+
+**Digipen Institute of Technology, Singapore** *(2017 - 2018)*
+
+- (B) CS170 (High-Level Programming II: The C++ Programming Language)
+- (A) CS100 (Computer Environment)
+- (A) CS180 (Operating Systems)
+- (A) CS230 (Game Implementation Techniques)
+
+<br>
+
+### 4. Skills / Achievements / Experience
+
+- **Silver** *2016, 2017, 2018* National Olympiad in Informatics, Singapore
