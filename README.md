@@ -23,7 +23,7 @@
 
 - Marching cubes: [View →](https://github.com/owenl131/GodotMarchingCubes)
 - Inverse Kinematics: [Live Demo →](https://github.com/owenl131/GodotIK)
-- Procedural Tree: [Live Demo →](https://github.com/owenl131/GodotWaves)
+- Procedural Tree: [Live Demo →](https://github.com/owenl131/Tree)
 - Waves: [View →](https://github.com/owenl131/GodotWaves)
 
 **Admin Portal** for Ulu Pandan Stars Programme *2019 - ongoing*
