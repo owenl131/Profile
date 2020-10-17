@@ -32,12 +32,12 @@
 
 - Graduated with High Distinction, with Major in Physics and Chemistry and Honours in Mathematics and Computing Studies
 
-**Digipen Institute of Technology, Singapore** *(2017 - 2018)*
+**Digipen Institute of Technology, Singapore** *(2016 - 2018)*
 
-- (B) CS170 (High-Level Programming II: The C++ Programming Language)
-- (A) CS100 (Computer Environment)
-- (A) CS180 (Operating Systems)
-- (A) CS230 (Game Implementation Techniques)
+- Grade: *B*, AY2016, **CS170** High-Level Programming II: The C++ Programming Language
+- Grade: *A*, AY2017, **CS100** Computer Environment
+- Grade: *A*, AY2017, **CS180** Operating Systems
+- Grade: *A*, AY2018, **CS230** Game Implementation Techniques
 
 <br>
 
