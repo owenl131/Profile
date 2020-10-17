@@ -19,6 +19,8 @@
 
 ### 2. Projects
 
+**Customized Videocalling for Buddyboss Platform** *2020*
+
 **Experiments in Godot and 3D graphics** *2020*
 
 - Marching cubes: [View →](https://github.com/owenl131/GodotMarchingCubes)
@@ -30,6 +32,11 @@
 
 - System live, running on PHP and MySQL
 - Experimental system built on Elm, PHP and MongoDB
+
+**Hackathon Projects**
+
+- Conversational UI on android for increased concentration while studying
+- Input system for less-abled users based on predictive character frequencies
 
 **RPG Quest** *2015*, Champion at Singapore Games Creation Competition
 
