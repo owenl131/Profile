@@ -19,6 +19,13 @@
 
 ### 2. Projects
 
+**Experiments in Godot and 3D graphics** *2020*
+
+- Marching cubes: [View →](https://github.com/owenl131/GodotMarchingCubes)
+- Inverse Kinematics (with online demo): [View →](https://github.com/owenl131/GodotIK)
+- Procedural Tree (with online demo): [View →](https://github.com/owenl131/GodotWaves)
+- Waves: [View →](https://github.com/owenl131/GodotWaves)
+
 **RPG Quest** *2015*, Champion at Singapore Games Creation Competition
 
 - RPG: Recovery from Problem Gambling
