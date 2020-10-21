@@ -21,6 +21,8 @@
 
 **Customized Videocalling for Buddyboss Platform** *2020*
 
+- Using Svelte and Twilio API, integrated with Wordpress through a customized plugin
+
 **Experiments in Godot and 3D graphics** *2020*
 
 - Marching cubes: [View →](https://github.com/owenl131/GodotMarchingCubes)
