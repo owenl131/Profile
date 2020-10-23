@@ -38,8 +38,8 @@
 
 **Hackathon Projects**
 
-- Conversational UI on android for increased concentration while studying
-- Input system for less-abled users based on predictive character frequencies
+- Conversational UI on android for increased concentration while studying, using `Android` and `PocketSphinx`
+- Input system for less-abled users based on predictive character frequencies, using `p5.js`
 
 **RPG Quest** *2015*, Champion at Singapore Games Creation Competition
 
@@ -56,6 +56,7 @@
 
 **Digipen Institute of Technology, Singapore** *(2016 - 2018)*
 
+- Non-graduating student
 - Grade: *B*, AY2016, **CS170** High-Level Programming II: The C++ Programming Language
 - Grade: *A*, AY2017, **CS100** Computer Environment
 - Grade: *A*, AY2017, **CS180** Operating Systems
