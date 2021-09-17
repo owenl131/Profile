@@ -2,6 +2,8 @@
 
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenl131&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 1. Work Experience
 
 **Intern** at iGlobe Partners *(Nov 2018 - Dec 2018)*
